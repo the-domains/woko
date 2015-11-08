@@ -1,0 +1,23 @@
+name: Woko
+favicon: null
+layout_spectrum: 0.8548659801017493
+typography_spectrum: 0.7940501570701599
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.017862490145489573
+  lightness: 0.4694701083935797
+  saturation: 0.2828881882596761
+  rhythmicContrast: 0.2295368432532996
+purpose: []
